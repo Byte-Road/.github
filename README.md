@@ -15,6 +15,13 @@ We offer services that help your business adapt to the digital era:
 ## Our Approach
 We believe a proactive approach is key to success. We don’t wait for detailed requests—we come with solutions. We stay in touch throughout the project to ensure everything goes according to plan. We take full responsibility for the project from start to finish.
 
+## Explore More in Our Wiki
+Learn more about our company and the principles we follow:
+- **[About Byte Road](https://github.com/Byte-Road/.github/wiki/About-Byte-Road)**: Find out more about our philosophy, mission, and what sets us apart.
+- **[Best Practices](https://github.com/Byte-Road/.github/wiki/Best-Practices)**: See the key practices we follow to deliver high-quality, secure, and scalable solutions.
+- **[Guides](https://github.com/Byte-Road/.github/wiki/Guides)**: Access detailed guides on using our templates and tools. [Coming Soon]
+
+
 ## Our Team
 Our team is made up of young and passionate professionals with experience in various fields. We love what we do and are always looking for new ways to solve challenges. Together, we aim to make tech solutions accessible and valuable for your business.
 
